@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 20 10:29:32 2016
 
-@author: hina
-"""
 print ()
 
 import string
